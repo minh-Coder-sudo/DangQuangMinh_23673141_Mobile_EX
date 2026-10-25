@@ -1,0 +1,852 @@
+[
+  {
+    "id": "1",
+    "name": "Điện Thoại Vsmart Joy 3 - Hàng chính hãng",
+    "price": 1790000,
+    "oldPrice": 1790000,
+    "rating": 5,
+    "reviewCount": 828,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "2",
+    "name": "Điện Thoại Vsmart Live 4 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4390000,
+    "rating": 5,
+    "reviewCount": 237,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "3",
+    "name": "Điện Thoại Vsmart Star 5 - Hàng chính hãng",
+    "price": 2490000,
+    "oldPrice": 2990000,
+    "rating": 5,
+    "reviewCount": 374,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "4",
+    "name": "Điện Thoại Vsmart Active 3 - Hàng chính hãng",
+    "price": 3290000,
+    "oldPrice": 3890000,
+    "rating": 4,
+    "reviewCount": 511,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "5",
+    "name": "Điện Thoại Vsmart Aris Pro - Hàng chính hãng",
+    "price": 7490000,
+    "oldPrice": 7790000,
+    "rating": 5,
+    "reviewCount": 648,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "6",
+    "name": "Điện Thoại Vsmart Bee 3 - Hàng chính hãng",
+    "price": 1390000,
+    "oldPrice": 1790000,
+    "rating": 5,
+    "reviewCount": 785,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "7",
+    "name": "Điện Thoại Vsmart Joy 4 - Hàng chính hãng",
+    "price": 2990000,
+    "oldPrice": 3490000,
+    "rating": 5,
+    "reviewCount": 922,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "8",
+    "name": "Điện Thoại Vsmart Aris - Hàng chính hãng",
+    "price": 5990000,
+    "oldPrice": 6590000,
+    "rating": 5,
+    "reviewCount": 1059,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "9",
+    "name": "Điện Thoại Vsmart Live - Hàng chính hãng",
+    "price": 3490000,
+    "oldPrice": 3790000,
+    "rating": 4,
+    "reviewCount": 1196,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "10",
+    "name": "Điện Thoại Vsmart Star 4 - Hàng chính hãng",
+    "price": 1990000,
+    "oldPrice": 2390000,
+    "rating": 5,
+    "reviewCount": 1333,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "11",
+    "name": "Điện Thoại Samsung Galaxy A05 - Hàng chính hãng",
+    "price": 2490000,
+    "oldPrice": 2990000,
+    "rating": 5,
+    "reviewCount": 1470,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "12",
+    "name": "Điện Thoại Samsung Galaxy A05s - Hàng chính hãng",
+    "price": 3290000,
+    "oldPrice": 3890000,
+    "rating": 5,
+    "reviewCount": 1607,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "13",
+    "name": "Điện Thoại Samsung Galaxy A15 - Hàng chính hãng",
+    "price": 4490000,
+    "oldPrice": 4790000,
+    "rating": 5,
+    "reviewCount": 1744,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "14",
+    "name": "Điện Thoại Samsung Galaxy A25 - Hàng chính hãng",
+    "price": 5990000,
+    "oldPrice": 6390000,
+    "rating": 4,
+    "reviewCount": 1881,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "15",
+    "name": "Điện Thoại Samsung Galaxy A35 - Hàng chính hãng",
+    "price": 7490000,
+    "oldPrice": 7990000,
+    "rating": 5,
+    "reviewCount": 118,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "16",
+    "name": "Điện Thoại Samsung Galaxy A55 - Hàng chính hãng",
+    "price": 9490000,
+    "oldPrice": 10090000,
+    "rating": 5,
+    "reviewCount": 255,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "17",
+    "name": "Điện Thoại Samsung Galaxy M15 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4290000,
+    "rating": 5,
+    "reviewCount": 392,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "18",
+    "name": "Điện Thoại Samsung Galaxy M34 - Hàng chính hãng",
+    "price": 5490000,
+    "oldPrice": 5890000,
+    "rating": 5,
+    "reviewCount": 529,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "19",
+    "name": "Điện Thoại Samsung Galaxy S23 - Hàng chính hãng",
+    "price": 12990000,
+    "oldPrice": 13490000,
+    "rating": 4,
+    "reviewCount": 666,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "20",
+    "name": "Điện Thoại Samsung Galaxy S24 - Hàng chính hãng",
+    "price": 16990000,
+    "oldPrice": 17590000,
+    "rating": 5,
+    "reviewCount": 803,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "21",
+    "name": "Điện Thoại Xiaomi Redmi A3 - Hàng chính hãng",
+    "price": 1990000,
+    "oldPrice": 2290000,
+    "rating": 5,
+    "reviewCount": 940,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "22",
+    "name": "Điện Thoại Xiaomi Redmi 12 - Hàng chính hãng",
+    "price": 2990000,
+    "oldPrice": 3390000,
+    "rating": 5,
+    "reviewCount": 1077,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "23",
+    "name": "Điện Thoại Xiaomi Redmi 13C - Hàng chính hãng",
+    "price": 2790000,
+    "oldPrice": 3290000,
+    "rating": 5,
+    "reviewCount": 1214,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "24",
+    "name": "Điện Thoại Xiaomi Redmi Note 12 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4590000,
+    "rating": 4,
+    "reviewCount": 1351,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "25",
+    "name": "Điện Thoại Xiaomi Redmi Note 13 - Hàng chính hãng",
+    "price": 4490000,
+    "oldPrice": 4790000,
+    "rating": 5,
+    "reviewCount": 1488,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "26",
+    "name": "Điện Thoại Xiaomi Redmi Note 13 Pro - Hàng chính hãng",
+    "price": 6490000,
+    "oldPrice": 6890000,
+    "rating": 5,
+    "reviewCount": 1625,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "27",
+    "name": "Điện Thoại Xiaomi POCO C65 - Hàng chính hãng",
+    "price": 2990000,
+    "oldPrice": 3490000,
+    "rating": 5,
+    "reviewCount": 1762,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "28",
+    "name": "Điện Thoại Xiaomi POCO M6 Pro - Hàng chính hãng",
+    "price": 5490000,
+    "oldPrice": 6090000,
+    "rating": 5,
+    "reviewCount": 1899,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "29",
+    "name": "Điện Thoại Xiaomi POCO X6 - Hàng chính hãng",
+    "price": 6990000,
+    "oldPrice": 7290000,
+    "rating": 4,
+    "reviewCount": 136,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "30",
+    "name": "Điện Thoại Xiaomi 13T - Hàng chính hãng",
+    "price": 9990000,
+    "oldPrice": 10390000,
+    "rating": 5,
+    "reviewCount": 273,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "31",
+    "name": "Điện Thoại OPPO A18 - Hàng chính hãng",
+    "price": 3290000,
+    "oldPrice": 3790000,
+    "rating": 5,
+    "reviewCount": 410,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "32",
+    "name": "Điện Thoại OPPO A38 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4590000,
+    "rating": 5,
+    "reviewCount": 547,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "33",
+    "name": "Điện Thoại OPPO A58 - Hàng chính hãng",
+    "price": 4490000,
+    "oldPrice": 4790000,
+    "rating": 5,
+    "reviewCount": 684,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "34",
+    "name": "Điện Thoại OPPO A60 - Hàng chính hãng",
+    "price": 5490000,
+    "oldPrice": 5890000,
+    "rating": 4,
+    "reviewCount": 821,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "35",
+    "name": "Điện Thoại OPPO A78 - Hàng chính hãng",
+    "price": 5990000,
+    "oldPrice": 6490000,
+    "rating": 5,
+    "reviewCount": 958,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "36",
+    "name": "Điện Thoại OPPO Reno8 T - Hàng chính hãng",
+    "price": 6990000,
+    "oldPrice": 7590000,
+    "rating": 5,
+    "reviewCount": 1095,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "37",
+    "name": "Điện Thoại OPPO Reno10 - Hàng chính hãng",
+    "price": 8490000,
+    "oldPrice": 8790000,
+    "rating": 5,
+    "reviewCount": 1232,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "38",
+    "name": "Điện Thoại OPPO Reno11 - Hàng chính hãng",
+    "price": 9990000,
+    "oldPrice": 10390000,
+    "rating": 5,
+    "reviewCount": 1369,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "39",
+    "name": "Điện Thoại realme C51 - Hàng chính hãng",
+    "price": 2990000,
+    "oldPrice": 3490000,
+    "rating": 4,
+    "reviewCount": 1506,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "40",
+    "name": "Điện Thoại realme C53 - Hàng chính hãng",
+    "price": 3490000,
+    "oldPrice": 4090000,
+    "rating": 5,
+    "reviewCount": 1643,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "41",
+    "name": "Điện Thoại realme C55 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4290000,
+    "rating": 5,
+    "reviewCount": 1780,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "42",
+    "name": "Điện Thoại realme C67 - Hàng chính hãng",
+    "price": 4990000,
+    "oldPrice": 5390000,
+    "rating": 5,
+    "reviewCount": 1917,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "43",
+    "name": "Điện Thoại realme 11 - Hàng chính hãng",
+    "price": 5990000,
+    "oldPrice": 6490000,
+    "rating": 5,
+    "reviewCount": 154,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "44",
+    "name": "Điện Thoại realme 11 Pro - Hàng chính hãng",
+    "price": 7990000,
+    "oldPrice": 8590000,
+    "rating": 4,
+    "reviewCount": 291,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "45",
+    "name": "Điện Thoại vivo Y03 - Hàng chính hãng",
+    "price": 2790000,
+    "oldPrice": 3090000,
+    "rating": 5,
+    "reviewCount": 428,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "46",
+    "name": "Điện Thoại vivo Y17s - Hàng chính hãng",
+    "price": 3490000,
+    "oldPrice": 3890000,
+    "rating": 5,
+    "reviewCount": 565,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "id": "47",
+    "name": "Điện Thoại vivo Y27 - Hàng chính hãng",
+    "price": 4490000,
+    "oldPrice": 4990000,
+    "rating": 5,
+    "reviewCount": 702,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "id": "48",
+    "name": "Điện Thoại vivo Y36 - Hàng chính hãng",
+    "price": 5490000,
+    "oldPrice": 6090000,
+    "rating": 5,
+    "reviewCount": 839,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "id": "49",
+    "name": "Điện Thoại vivo V29e - Hàng chính hãng",
+    "price": 7990000,
+    "oldPrice": 8290000,
+    "rating": 4,
+    "reviewCount": 976,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "id": "50",
+    "name": "Điện Thoại vivo V30 - Hàng chính hãng",
+    "price": 10990000,
+    "oldPrice": 11390000,
+    "rating": 5,
+    "reviewCount": 1113,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  }
+]

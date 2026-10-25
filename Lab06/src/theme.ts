@@ -1,0 +1,61 @@
+import { StyleSheet } from "react-native";
+export const colors = {
+  red: "#E53A2F",
+  blue: "#4F63C8",
+  navy: "#0B1F5C",
+  text: "#1F2430",
+  muted: "#6B7280",
+  line: "#D8DCE3",
+  bg: "#F4F5F7",
+  grey: "#C4C4C4",
+  star: "#F5C518",
+};
+export const formatPrice = (n: number) => n.toLocaleString("vi-VN") + " đ";
+export const s = StyleSheet.create({
+  root: { flex: 1, backgroundColor: "#fff" },
+  pad: { padding: 20, gap: 16 },
+  center: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    padding: 24,
+    gap: 16,
+  },
+  title: { fontSize: 24, fontWeight: "700", color: colors.text },
+  text: { fontSize: 16, color: colors.text, lineHeight: 24 },
+  muted: { fontSize: 14, color: colors.muted },
+  card: {
+    padding: 18,
+    backgroundColor: "#fff",
+    borderWidth: 1,
+    borderColor: colors.line,
+    borderRadius: 12,
+    gap: 10,
+  },
+  row: { flexDirection: "row", alignItems: "center", gap: 16 },
+  button: {
+    minHeight: 48,
+    borderRadius: 6,
+    backgroundColor: colors.red,
+    alignItems: "center",
+    justifyContent: "center",
+    paddingHorizontal: 16,
+  },
+  buttonText: { color: "#fff", fontSize: 16, fontWeight: "700" },
+  input: {
+    borderWidth: 1,
+    borderColor: colors.line,
+    borderRadius: 8,
+    padding: 14,
+    fontSize: 16,
+    backgroundColor: "#fff",
+  },
+  avatar: {
+    width: 96,
+    height: 96,
+    borderRadius: 48,
+    backgroundColor: colors.blue,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+});
